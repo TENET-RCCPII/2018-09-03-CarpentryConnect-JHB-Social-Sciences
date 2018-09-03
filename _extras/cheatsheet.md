@@ -31,6 +31,12 @@ permalink: /cheatsheet/
 :   is a way of assigning indices to elements in a sequential, ordered data structure
     starting from 0, i.e. where the first element of the sequence has index 0.
 
+boolean
+:   a data type that can be `True` or `False`
+
+cast
+:   the process of changing the type of a variable, in python the data type names operate as functions for casting, for example `int(3.5)`
+
 CSV (file)
 :   is an acronym which stands for Comma-Separated Values file. CSV files store
     tabular data, either numbers, strings, or a combination of the two, in plain
@@ -49,10 +55,10 @@ data structure
 data type
 :   is a particular kind of item that can be assigned to a variable, defined by
     by the values it can take, the programming language in use and the operations
-    that can be performed on it.
+    that can be performed on it. examples: `int` (integer), `str` (string), float, boolean, list
 
 docstring
-:   is an optional documentation string to describe what a Python function does.
+:   is an recommended documentation string to describe what a Python function does.
 
 faceting
 :   is the act of plotting relationships between set variables in multiple subsets
@@ -116,3 +122,6 @@ tuple
     strings and any combination of the previous. The sequence is ordered and indexed
     by integers, starting from 0. Elements of a tuple can be accessed by their index
     but cannot be modified.
+
+variable
+:   a named quantity that can store a value, a variable can store any type, but always one type for a given value.  
