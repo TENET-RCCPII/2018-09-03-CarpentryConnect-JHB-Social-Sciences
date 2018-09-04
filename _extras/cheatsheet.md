@@ -24,6 +24,13 @@ permalink: /cheatsheet/
 ### Full Shortcut Listing
 <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Linux and Windows)
 
+## Common Questions:
+
+### How do I know when to use brackets and which type to use?
+ - `[ ]` square brackets are mostly for looking inside a variable
+ - `( )` are for applying computations (methods and functions)
+ - `.` with no brackets is for looking at attributes
+
 
 ## Key terms
 
