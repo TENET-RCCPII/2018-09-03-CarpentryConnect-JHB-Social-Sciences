@@ -31,6 +31,9 @@ permalink: /cheatsheet/
 :   is a way of assigning indices to elements in a sequential, ordered data structure
     starting from 0, i.e. where the first element of the sequence has index 0.
 
+attribute
+:   a property of an object that can be viewed, accessed with a `.` but no `()` ex: `df.dtypes`
+
 boolean
 :   a data type that can be `True` or `False`
 
@@ -96,6 +99,9 @@ list
 loop
 :   is a sequence of instructions that is continually repeated until a condition
     is satisfied.
+
+method
+:   a function that is specific to a type of data, accessed via `.` and requires `()` to run, for example `df.sum()`
 
 NaN
 :   is an acronym for Not-a-Number and represents that either a value is missing or
